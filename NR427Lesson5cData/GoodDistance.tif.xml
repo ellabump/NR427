@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20190421</CreaDate><CreaTime>12525100</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Spatial Analyst Tools.tbx\Reclassify" Date="20190421" Time="125251">Reclassify Trail_dist VALUE "0 500 1;500 19262.896484 0" "C:\Users\MapGirl\Documents\NR426-427\NR427\Lesson 4\GoodDistance.tif" DATA</Process></lineage></DataProperties></Esri></metadata>

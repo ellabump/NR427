@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20190421</CreaDate><CreaTime>12520700</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Spatial Analyst Tools.tbx\Reclassify" Date="20190421" Time="125207">Reclassify Slope_new VALUE "0 10 1;10 85.333733 0" "C:\Users\MapGirl\Documents\NR426-427\NR427\Lesson 4\GoodSlope.tif" DATA</Process></lineage></DataProperties></Esri></metadata>
